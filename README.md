@@ -1,16 +1,26 @@
-## Hi there 👋 I'm Fathalrhman 
+## Hi there 👋 I'm Fathalrhman Adam
 
-I'm an AI enthusiast and Software Engineer. I have a strong foundation in both theoretical and practical aspects of software development and AI. I'm passionate about contributing to open source and developing AI solutions that  make a difference. 
+Welcome to my GitHub profile! I'm an AI enthusiast and Software Engineer with a foundation in both theoretical and practical aspects of software development and artificial intelligence. My passion lies in contributing to open-source projects and creating AI solutions that positively impact the world.
 
-<!-- **Fathalrhman26/Fathalrhman26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: --> 
-- 🔭 I’m currently working on ML Engineering projects / AI related open-source projects.
-- 🌱 I’m currently learning Reinforcement and robotics.
-- 👯 I’m looking to collaborate on Reinforcement learning projects and research.
-- 🤔 I’m looking for help with finding a research oppertnities in RL Engineering or AI alignment.
--  💬 Ask me about Software Engineering, ML, DL, RL, AGI Saftey & Governance.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: there is no limit if logic
-
- 📫 How to reach me:
+### What I'm Up To
+- 🔭 Currently, I'm working on Machine Learning Engineering projects and AI-related open-source initiatives.
+- 🌱 I'm diving deep into Reinforcement Learning and Robotics, constantly expanding my knowledge and skills.
+- 👯 I'm eager to collaborate on Reinforcement Learning projects and research.
+- 🤔 Seeking opportunities to explore research in RL Engineering or AI alignment.
   
-<a href="https://www.linkedin.com/in/fathalrhman26/"> <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/Fathalrhman26"> <img src="https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=X&logoColor=white" /> </a>
+💬 Feel free to ask me about:
+- Software Engineering
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Reinforcement Learning (RL)
+- AGI Safety & Governance
+
+😄 Pronouns: he/him  
+⚡ Fun fact: The only limit is the one you set with logic.
+
+📫 **How to reach me:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathalrhman26/)
+[![X (Twitter)](https://img.shields.io/badge/-X-1ca0f1?style=flat-square&logo=X&logoColor=white)](https://x.com/Fathalrhman26)
+
+Let's innovate and build the future together!
