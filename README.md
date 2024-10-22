@@ -61,6 +61,7 @@ I'm a passionate **Software Engineer** with a strong background in **Artificial 
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me.
 
+- [Portfolio](https://fathalrhman26.github.io)
 - [Email](mailto:fathalrhman26@Gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fathalrhman26/)
 - [X (Twitter)](https://x.com/Fathalrhman26)
